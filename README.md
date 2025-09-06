@@ -5,8 +5,8 @@ The dataset contains 12 months of sales transactions (2019), which were cleaned,
 
 ## Project Setup
 # 1. Clone Repository
-git clone https://github.com/yourusername/sales-analysis.git
-cd sales-analysis
+[git clone](https://github.com/richasingh157/Sales-Analysis-and-Visualization)
+
 
 # 2. Dataset
 
@@ -116,6 +116,6 @@ Profit margin analysis highlighted high-performing products
 
 🙌 Thank You
 
-📧 Email: yourname@example.com
+📧 Email: richasingh19072003@gmail.com
 
-🐙 GitHub: yourusername
+🐙 GitHub: github.com/richasingh157

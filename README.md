@@ -100,13 +100,13 @@ Map: City-wise Sales (bubble map)
 
 KPI Cards: Sales, Profit, Orders, AOV
 
-Slicers: Product, City, Month
+Slicers: Product, Week Day, Month
 
 📈 Key Insights
 
 Peak sales observed during holiday months (Nov–Dec)
 
-Evening hours (7–9 PM) had highest order volumes
+Evening hours (11PM, 12 AM) had highest order volumes
 
 San Francisco led in total sales across cities
 
@@ -114,8 +114,8 @@ Top products: Batteries, USB-C cables, and electronics
 
 Profit margin analysis highlighted high-performing products
 
-🙌 Thank You
+# Thank You
 
-📧 Email: richasingh19072003@gmail.com
+ Email: richasingh19072003@gmail.com
 
-🐙 GitHub: github.com/richasingh157
+ GitHub: github.com/richasingh157
